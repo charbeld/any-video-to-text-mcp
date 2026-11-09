@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "any-video-to-text": {
+      "url": "https://anyvideototext.com/mcp",
+      "headers": { "Authorization": "Bearer avt_YOUR_KEY" }
+    }
+  }
+}

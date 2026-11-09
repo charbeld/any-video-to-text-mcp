@@ -1,0 +1,11 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.anyvideototext/any-video-to-text",
+  "title": "Any Video to Text",
+  "description": "Transcripts and AI summaries of TikTok, YouTube, Instagram, Facebook and X videos from a link.",
+  "websiteUrl": "https://anyvideototext.com/mcp-server",
+  "version": "1.0.0",
+  "remotes": [
+    { "type": "streamable-http", "url": "https://anyvideototext.com/mcp" }
+  ]
+}

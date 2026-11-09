@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "any-video-to-text": {
+      "type": "http",
+      "url": "https://anyvideototext.com/mcp"
+    }
+  }
+}
